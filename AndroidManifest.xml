@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.aokp.swagpapers"
+    package="com.ose.osepapers"
     android:versionCode="10"
     android:versionName="2.0" >
 
